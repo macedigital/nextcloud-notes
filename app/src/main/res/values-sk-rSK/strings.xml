@@ -119,6 +119,8 @@
     <string name="widget_create_note">Vytvoriť poznámku</string>
     <string name="widget_not_logged_in">Prihláste sa prosím do Poznámok skôr než začnete používať tento widget</string>
     <string name="widget_entry_fav_contentDescription">Ikona hviezdičky označuje položku ako obľúbenú</string>
+    <string name="widget_app_launcher_contentDescription">Spustí aplikáciu</string>
+
     <string name="activity_select_single_note">Vybrať poznámku</string>
 
     <!-- Shortcuts -->

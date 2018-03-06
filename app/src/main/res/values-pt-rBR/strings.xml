@@ -10,7 +10,7 @@
     <string name="action_create_cancel">Cancelar</string>
     <string name="action_edit_editing">Editar</string>
     <string name="action_edit_save">Salvar</string>
-    <string name="action_edit_saving">Salvando &#8230;</string>
+    <string name="action_edit_saving">Salvando&#8230;</string>
     <string name="action_edit_saved">Salvo</string>
     <string name="action_edit_cancel">Cancelar</string>
     <string name="action_about">Sobre</string>
@@ -53,7 +53,7 @@
     <string name="settings_password_unchanged">Senha (não alterada)</string>
     <string name="settings_password_check_description">Mostra se a senha está correta.</string>
     <string name="settings_submit">Conectar</string>
-    <string name="settings_submitting">Conectando &#8230;</string>
+    <string name="settings_submitting">Conectando&#8230;</string>
     <string name="settings_view_category">Ver configurações</string>
     <string name="settings_note_mode">Mostra os modos para Anotações</string>
     <string name="settings_notification_title">\"Criar nota\"  como notificação</string>
